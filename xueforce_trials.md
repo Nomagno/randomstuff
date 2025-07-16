@@ -57,7 +57,6 @@ Each track has the following information assigned to it:
  - It will never be the first nor the last round in the event.
  - **Parameter**: Random forced venue from pre-selected list, forced choice of tyre 10 (no degradation). Must be different from the current track in all cases.
  - Free choice of kart
- - 0.5% step handicaps forced according to current championship standings, better standing = more handicap
  - If an individual ranking can be established, it works as usual.
  - If teams, the below is applied:
     Teams must be as balanced in terms of number of players. After that, the sum of points of each team's players' points must be as close as possible.
