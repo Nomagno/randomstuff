@@ -2,12 +2,12 @@
 Appendix A of [Xueforce Trial rules](xueforce_trials.md).
 
 ## RT4
-MDH X
+MDH 5
 
-MDL X
+MDL 7
 
 TLH X, TTH X
 
-TLH M, TTM X
+TLM X, TTM X
 
 TLS X, TTS X
