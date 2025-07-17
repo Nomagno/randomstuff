@@ -42,7 +42,7 @@ Each track has the following information assigned to it. For the full list of va
  - **Parameter**: One specific compound will be forced
  - No item boxes
  - One lap only
- - **Parameter**: free kart choice/one banned/two banned
+ - **Parameter**: one class will be banned
  - Each player does one lap on a separate session. The fastest wins.
 
 ### Type 4: Marathon
