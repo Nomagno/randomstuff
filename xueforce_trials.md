@@ -9,7 +9,9 @@ The specific rules for each round will be announced 5-10 minutes in advance. As 
 
 All rounds except for the variety round will be held on the same track, which will be known beforehand.
 
-Each track has the following information assigned to it:
+Mode/map possibilities of the variety round available in [Appendix B](xueforce_trials_variety_maps.md)
+
+Each track has the following information assigned to it. For the full list of values for each track see the [Appendix A](xueforce_trials_track_vars.md):
 - MDH: Maximum distance for a single stint with soft tyres with the heavy kart including one lap of cliff
 - MDL: Maximum distance for a single stint with soft tyres with the light kart including one lap of cliff
 - TLH: How many laps the hard tyre lasts comfortably with medium kart
