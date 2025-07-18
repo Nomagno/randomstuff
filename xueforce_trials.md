@@ -48,7 +48,7 @@ Each track has the following information assigned to it. For the full list of va
 ### Type 4: Marathon
  - **Parameter**: Race length 5-12 laps at random with uniform distribution
  - **Parameter**: Forced kart choice.
- - Item policy: Nitro, items *and* bananas forbidden. One zipper per lap, all given at the start
+ - Item policy: Nitro, items *and* bananas forbidden. One zipper will be given per lap, and if it is not used no zipper will be given for the next lap.
  - Forced tyre choice of tyre 10 (no degradation).
  - Each player will be given a 5 second gap (by speed penalty to all the others) [unless the lap is too short or too long then blablablablayapyapyapyap]
  - 1/3rd of points are given according each to these laptimes: average, median and worst (ranking of each among all players)
